@@ -1,0 +1,4 @@
+1.Unweighted undirected graph -> Facebook friends
+2.Unweighted directed graph -> Instagram,Git
+3.Weighted undirected graph -> Google maps
+4.Weighted directed graph -> Splitwise
