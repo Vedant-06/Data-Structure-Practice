@@ -40,5 +40,12 @@ int main()
 	    adj[b].push_back(a);
 	}
 	
-	cout << '\n'<< dfs(0,-1);
+	for(int i=0;i<n;i++)
+	{
+		if(dfs(0,-1))
+		cout << 'Cycle is Detedcted' << endl;
+	}
+	
+	//cout << '\n'<< dfs(0,-1);
+	
 }
