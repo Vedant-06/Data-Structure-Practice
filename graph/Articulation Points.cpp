@@ -37,7 +37,7 @@ void AP(int u, int n, int m)
                 ap[u] = true;
         }
         else if(s != parent[u])
-            low[u] = min(low[u],disc[v]);
+            low[u] = min(low[u],disc[s]);
     }
 }
 
