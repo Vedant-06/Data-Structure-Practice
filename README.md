@@ -11,3 +11,9 @@ Practice
   e. Trie
   
 3. Heap
+
+4. Stack
+
+5. Queue
+
+6. String
